@@ -1,0 +1,456 @@
+﻿  CallManager.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\callmanager.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\callmanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(87): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(89): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C3646: “sAttr”: 未知重写说明符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2238: 意外的标记位于“;”之前
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(99): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(100): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(101): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(102): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(103): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(105): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(106): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(116): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(118): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(126): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(127): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(130): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(133): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(134): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(135): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(136): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(137): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(144): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(145): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(264): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(327): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(329): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\callmanager.h(8): fatal error C1083: 无法打开包括文件: “json/json.h”: No such file or directory
+  CodeConverter.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\common\codeconverter.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\codeconverter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\codeconverter.cpp(4): fatal error C1083: 无法打开包括文件: “iconv.h”: No such file or directory
+  CommDefine.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\common\commdefine.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\commdefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\commdefine.h(6): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  ThreadTimer.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\common\threadtimer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\threadtimer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\commdefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\commdefine.h(6): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  Timer.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\common\timer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\timer.cpp(7): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  ConfigSipServer.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\configsipserver.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\configsipserver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\commdefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\common\commdefine.h(6): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  GB28181.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\sipserver.h(4): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  GB28181MediaGate.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181mediagate.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181mediagate.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(87): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(89): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C3646: “sAttr”: 未知重写说明符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2238: 意外的标记位于“;”之前
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(99): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(100): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(101): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(102): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(103): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(105): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(106): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(116): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(118): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(126): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(127): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(130): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(133): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(134): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(135): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(136): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(137): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(144): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(145): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(264): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(327): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(329): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181mediagate.h(72): error C2061: 语法错误: 标识符“fnMediaGateStreamCB”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sal.h(2361): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sal.h(2361): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\concurrencysal.h(22): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\concurrencysal.h(22): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vadefs.h(18): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vadefs.h(18): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vadefs.h(128): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vadefs.h(129): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime.h(83): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime.h(83): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(12): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_malloc.h(13): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_malloc.h(13): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(14): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(14): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_search.h(16): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_search.h(16): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(13): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(13): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits.h(13): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits.h(13): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(18): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(18): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_stdio_config.h(12): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_stdio_config.h(12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_stdio_config.h(68): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(15): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(15): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(15): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(15): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\errno.h(14): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\errno.h(14): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_string.h(14): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_string.h(14): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_memcpy_s.h(14): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_memcpy_s.h(14): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_memory.h(19): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_memory.h(19): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(16): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(16): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(19): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(19): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(13): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(13): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new_debug.h(13): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new_debug.h(13): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\crtdbg.h(15): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\crtdbg.h(15): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(132): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(136): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(145): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(332): error C2059: 语法错误:“namespace”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(332): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(15): error C2059: 语法错误:“namespace”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(15): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstddef(17): error C2059: 语法错误:“namespace”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstddef(17): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstddef(101): error C2039: “max_align_t”: 不是“std”的成员
+  f:\workspace\source\wenzhou\gb28181\gb28181\predefined c++ types (compiler internal)(256): note: 参见“std”的声明
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstddef(101): error C2873: “max_align_t”: 符号不能用在 using 声明中
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(14): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(14): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstdlib(34): error C2059: 语法错误:“namespace”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstdlib(34): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(15): error C2059: 语法错误:“namespace”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(15): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstddef(18): error C2059: 语法错误:“namespace”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstddef(18): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(17): error C2059: 语法错误:“namespace”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(17): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\exception(17): error C2059: 语法错误:“namespace”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\exception(17): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\malloc.h(15): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\malloc.h(15): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_terminate.h(14): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_terminate.h(14): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_terminate.h(14): fatal error C1003: 错误计数超过 100；正在停止编译
+  GB28181StreamInstance.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181streaminstance.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(87): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(89): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C3646: “sAttr”: 未知重写说明符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2238: 意外的标记位于“;”之前
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(99): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(100): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(101): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(102): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(103): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(105): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(106): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(116): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(118): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(126): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(127): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(130): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(133): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(134): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(135): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(136): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(137): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(144): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(145): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(264): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(327): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(329): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181streaminstance.h(5): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+  GB28181StreamPuller.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181streampuller.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181streampuller.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181streaminstance.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(87): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(89): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C3646: “sAttr”: 未知重写说明符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2238: 意外的标记位于“;”之前
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(99): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(100): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(101): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(102): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(103): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(105): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(106): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(116): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(118): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(126): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(127): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(130): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(133): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(134): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(135): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(136): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(137): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(144): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(145): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(264): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(327): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(329): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181streaminstance.h(5): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+  GB28181StreamPusher.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181streampusher.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181streampusher.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\psmux\psmux.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181streaminstance.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(87): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(89): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C3646: “sAttr”: 未知重写说明符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2238: 意外的标记位于“;”之前
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(99): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(100): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(101): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(102): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(103): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(105): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(106): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(116): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(118): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(126): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(127): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(130): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(133): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(134): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(135): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(136): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(137): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(144): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(145): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(264): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(327): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(329): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\gb28181streaminstance.h(5): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+  MediaGateCommon.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(87): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(89): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C3646: “sAttr”: 未知重写说明符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2238: 意外的标记位于“;”之前
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(99): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(100): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(101): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(102): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(103): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(105): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(106): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(116): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(118): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(126): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(127): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(130): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(133): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(134): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(135): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(136): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(137): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(144): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(145): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(264): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(327): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(329): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.cpp(8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.cpp(8): error C2146: 语法错误: 缺少“;”(在标识符“g_fnMediaGateLogCB”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.cpp(11): error C2146: 语法错误: 缺少“)”(在标识符“fn”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.cpp(12): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.cpp(12): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.cpp(20): error C2065: “g_fnMediaGateLogCB”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\mediagatecommon.cpp(29): error C3861: “g_fnMediaGateLogCB”: 找不到标识符
+  psmux.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\psmux\psmux.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\psmux\psmux.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\psmux\psmux.cpp(82): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+f:\workspace\source\wenzhou\gb28181\gb28181\psmux\psmux.cpp(529): fatal error C1004: 发现意外的文件尾
+  RtcpPacket.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\rtcppacket.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\rtcppacket.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\rtcppacket.cpp(5): fatal error C1083: 无法打开包括文件: “arpa/inet.h”: No such file or directory
+  SipEndpointInfo.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\sipendpointinfo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(87): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(89): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C3646: “sAttr”: 未知重写说明符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2238: 意外的标记位于“;”之前
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(99): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(100): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(101): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(102): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(103): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(105): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(106): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(116): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(118): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(126): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(127): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(130): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(133): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(134): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(135): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(136): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(137): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(144): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(145): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(264): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(327): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(329): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipendpointinfo.h(5): fatal error C1083: 无法打开包括文件: “json/json.h”: No such file or directory
+  SipServer.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\sipserver.h(4): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  SipUA.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(87): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(89): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C3646: “sAttr”: 未知重写说明符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2238: 意外的标记位于“;”之前
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(99): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(100): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(101): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(102): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(103): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(105): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(106): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(116): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(118): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(126): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(127): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(130): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(133): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(134): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(135): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(136): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(137): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(144): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(145): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(264): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(327): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(329): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.cpp(2): fatal error C1083: 无法打开包括文件: “eXosip2/eXosip.h”: No such file or directory
+  test_main.cpp
+c1xx : fatal error C1083: 无法打开源文件: “SipUA\test_main.cpp”: No such file or directory
+  UaComm.cpp
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(87): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(89): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C3646: “sAttr”: 未知重写说明符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(92): error C2238: 意外的标记位于“;”之前
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(99): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(100): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(101): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(102): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(103): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(105): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(106): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(116): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(118): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(126): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(127): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(130): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(133): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(134): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(135): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(136): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(137): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(144): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(145): error C2065: “SIPUA_STRING_LINE_LEN”: 未声明的标识符
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(264): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(327): error C2061: 语法错误: 标识符“SSubjectInfo”
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(329): error C2061: 语法错误: 标识符“SSubjectInfo”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sal.h(2361): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sal.h(2361): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\concurrencysal.h(22): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\concurrencysal.h(22): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vadefs.h(18): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vadefs.h(18): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vadefs.h(128): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vadefs.h(129): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime.h(83): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime.h(83): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(12): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_malloc.h(13): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_malloc.h(13): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(14): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(14): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_search.h(16): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_search.h(16): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(13): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(13): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits.h(13): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits.h(13): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(18): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(18): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_stdio_config.h(12): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_stdio_config.h(12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_stdio_config.h(68): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(15): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(15): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(15): error C2059: 语法错误:“字符串”
+d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(15): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdarg.h(13): error C2059: 语法错误:“字符串”
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdarg.h(13): error C2334: “{”的前面有意外标记；跳过明显的函数体
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\uacomm.cpp(11): error C2535: “void tagSSubjectInfo::uaLogInit(tagSSubjectInfo::fnSipUA_OutputLogCB,void *)”: 已经定义或声明成员函数
+  f:\workspace\source\wenzhou\gb28181\gb28181\sipua\uacomm.h(24): note: 参见“tagSSubjectInfo::uaLogInit”的声明
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\uacomm.cpp(18): error C2535: “void tagSSubjectInfo::uaOutputLog(const int,const char *,const char *,const int,const char *,...)”: 已经定义或声明成员函数
+  f:\workspace\source\wenzhou\gb28181\gb28181\sipua\uacomm.h(26): note: 参见“tagSSubjectInfo::uaOutputLog”的声明
+f:\workspace\source\wenzhou\gb28181\gb28181\sipua\sipua.h(115): fatal error C1075: “{”: 未找到匹配令牌
+  tinystr.cpp
